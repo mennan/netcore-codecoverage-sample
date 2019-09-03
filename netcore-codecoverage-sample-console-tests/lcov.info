@@ -1,0 +1,45 @@
+SF:/Users/mennankose/Projects/netcore-codecoverage-sample/netcore-codecoverage-sample-console/Program.cs
+FN:5,System.Void NetCore.CodeCoverage.Sample.Console.Program::Main(System.String[])
+FNDA:0,System.Void NetCore.CodeCoverage.Sample.Console.Program::Main(System.String[])
+DA:6,0
+DA:7,0
+LF:2
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:/Users/mennankose/Projects/netcore-codecoverage-sample/netcore-codecoverage-sample-console/Calculator.cs
+FN:7,System.Double netcore_codecoverage_sample_console.Calculator::Sum(System.Double,System.Double)
+FNDA:5,System.Double netcore_codecoverage_sample_console.Calculator::Sum(System.Double,System.Double)
+DA:8,5
+DA:9,5
+DA:10,5
+FN:12,System.Double netcore_codecoverage_sample_console.Calculator::Substract(System.Double,System.Double)
+FNDA:5,System.Double netcore_codecoverage_sample_console.Calculator::Substract(System.Double,System.Double)
+DA:13,5
+DA:14,5
+DA:15,5
+FN:17,System.Double netcore_codecoverage_sample_console.Calculator::Multiply(System.Double,System.Double)
+FNDA:5,System.Double netcore_codecoverage_sample_console.Calculator::Multiply(System.Double,System.Double)
+DA:18,5
+DA:19,5
+DA:20,5
+FN:22,System.Double netcore_codecoverage_sample_console.Calculator::Divide(System.Double,System.Double)
+FNDA:4,System.Double netcore_codecoverage_sample_console.Calculator::Divide(System.Double,System.Double)
+DA:23,4
+DA:24,4
+DA:25,0
+DA:26,0
+DA:29,4
+DA:30,4
+BRDA:24,15,0,0
+BRDA:24,15,1,4
+LF:15
+LH:13
+BRF:2
+BRH:1
+FNF:4
+FNH:4
+end_of_record
